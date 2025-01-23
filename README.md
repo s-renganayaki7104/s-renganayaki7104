@@ -5,3 +5,28 @@
 </a>
 
 
+```yaml
+name: S.Renganayaki
+located_in: Bengaluru, India
+
+education:
+  [
+    "Self-Taught Developer",
+    "Pre-Final year of B.Tech in Computer Science and Engineering",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "Software Engineering",
+  ]
+technical_background:
+  [
+    "Intern - Full Stack Web Development,
+  ]
+  
+currently_learning: ["DSA, System Design, and React Native"]
+2025 Goals: ["Create 2+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Journaling", "Singing", "Doodling"]
+```
