@@ -48,4 +48,4 @@ hobbies: ["Journaling", "Singing", "Doodling"]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-renganayaki7104)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/thepiyushmalhotra/s-renganayaki7104/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/s-renganayaki7104/s-renganayaki7104/blob/output/github-contribution-grid-snake.svg)
