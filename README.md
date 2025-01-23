@@ -1,6 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000011,100:000000&text=Hey%20There!&fontSize=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000011,100:000000&text=Hey%20There!&fontSize=38)
 
-![image](https://github.com/user-attachments/assets/6df1ee1c-52db-4bdc-995d-4e14c657637c)
 
 <a href="https://www.linkedin.com/in/s-renganayaki-9375a7254/">
   <img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
