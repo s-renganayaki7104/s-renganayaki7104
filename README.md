@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**s-renganayaki7104/s-renganayaki7104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000011,100:000000&text=Hey%20There!&fontSize=38)
 
 Here are some ideas to get you started:
 
