@@ -1,10 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000011,100:000000&text=Hey%20There!&fontSize=38)
+
 <div align="center">
   <a href="https://www.linkedin.com/in/s-renganayaki-9375a7254/" target="_blank">
     <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
   </a>
-  
-  <a href="mailto:s.renganayaki@example.com">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:srenganayaki.7104@gmail.com" target="_blank">
     <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
   </a>
 </div>
