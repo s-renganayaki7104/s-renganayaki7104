@@ -1,4 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000011,100:000000&text=Hey%20There!&fontSize=38)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/s-renganayaki-9375a7254/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:s.renganayaki@example.com">
+    <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail">
+  </a>
+</div>
+
 <a href="https://www.linkedin.com/in/s-renganayaki-9375a7254/">
   <img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
