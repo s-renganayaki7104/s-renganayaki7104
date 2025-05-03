@@ -17,7 +17,7 @@
   
   education:
     [
-      "Self-Taught Developer",
+      "Aspiring Software Engineer",
       "Pre-Final year of B.Tech in Computer Science and Engineering",
     ]
   
@@ -26,15 +26,16 @@
       "Web Development",
       "Machine Learning",
       "Software Engineering",
+      "Neural Networks".
     ]
   technical_background:
     [
       "Intern - Full Stack Web Development,
     ]
     
-  currently_learning: ["DSA, System Design, and React Native"]
+  currently_learning: ["DSA, System Design, and Rust"]
   2025 Goals: ["Create 2+ Projects and learn at least 5 new Technologies."]
-  hobbies: ["Journaling", "Singing", "Doodling"]
+  hobbies: ["Journaling", "Doodling", "Writing"]
   ```
   <h2>&nbsp;Some Tools I Have Used and Learned</h2>
   <p align="left">
