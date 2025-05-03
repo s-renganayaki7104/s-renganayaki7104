@@ -26,7 +26,7 @@
       "Web Development",
       "Machine Learning",
       "Software Engineering",
-      "Neural Networks".
+      "Neural Networks"
     ]
   technical_background:
     [
