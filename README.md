@@ -17,15 +17,15 @@
   
   education:
     [
-      "Aspiring Software Engineer",
-      "Pre-Final year of B.Tech in Computer Science and Engineering",
+      "SWE",
+      "CSE grad '26",
     ]
   
   fields_of_interests:
     [
-      "Web Development",
-      "Machine Learning",
       "Software Engineering",
+      "Software Development",
+      "Full stack Web Development",
       "Neural Networks"
     ]
   technical_background:
@@ -34,7 +34,7 @@
     ]
     
   currently_learning: ["DSA, System Design, and Rust"]
-  2025 Goals: ["Create 2+ Projects and learn at least 5 new Technologies."]
+  2026 Goals: ["Create 2+ Projects and learn at least 5 new Technologies."]
   hobbies: ["Journaling", "Doodling", "Writing"]
   ```
   <h2>&nbsp;Some Tools I Have Used and Learned</h2>
