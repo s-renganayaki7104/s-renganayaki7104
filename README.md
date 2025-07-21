@@ -57,10 +57,8 @@
   
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:a08976,100:5d403b&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=100&color=0:a08976,100:5d403b&section=footer"/>
 </p>
 
-<h2>My GitHub History</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-renganayaki7104)](https://github.com/anuraghazra/github-readme-stats)
 
